@@ -1,4 +1,4 @@
 stats
-=====
 
-A simple workout of mean and standard deviation using Ruby.
+A simple workout of basic statistics using Ruby.
+
