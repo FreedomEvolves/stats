@@ -53,6 +53,10 @@ puts
 
 # Write to Results file
 fileout = 'Results.txt'
-  stats = [datasum, xbar, var, stdev]
+  stats = ["The sum is #{datasum},
+  The mean equals #{xbar},
+  The variance is #{var},
+  The standard deviation equals #{stdev}"]
   yaml_save stats, fileout
+
   
